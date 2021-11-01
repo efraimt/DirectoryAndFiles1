@@ -10,7 +10,7 @@ WriteToTheFile2();
 GetDrivesAndLoop10Directories();
 ReadFromTheFile();
 
-/*********  Local methods below  *******/
+/*********  Local methods below  - They are nested in the static Main method*******/
 
 void WriteToTheFile()
 {
